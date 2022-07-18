@@ -1,5 +1,5 @@
 # Sveltekit + Objection.js Fullstack
-
+this is just plain implementation, from my learning journey
 ## preparation
 
 1. clone this
